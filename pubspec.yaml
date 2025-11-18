@@ -1,0 +1,22 @@
+name: flutter_animated_dot
+description: A collection of beautiful animated dot widgets for Flutter with multiple animation styles including bouncing, pulsing, rotating, sliding, fading, wave, and expanding effects.
+version: 1.0.0
+homepage: https://github.com/IamHarsh02/flutter_animated_dot
+repository: https://github.com/IamHarsh02/flutter_animated_dot
+issue_tracker: https://github.com/IamHarsh02/flutter_animated_dot/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
