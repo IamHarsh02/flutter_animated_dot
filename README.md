@@ -11,7 +11,16 @@ A collection of beautiful animated dot widgets for Flutter with multiple animati
 - 🚀 **Lightweight**: No external dependencies, pure Flutter animations
 - 🎭 **Smooth Performance**: Optimized animations using Flutter's animation framework
 
+
+https://github.com/user-attachments/assets/5353d754-2af1-48f7-a7ec-2e1c4c06628f
+
+
+
 ## Installation
+
+
+
+
 
 Add this to your package's `pubspec.yaml` file:
 
@@ -227,7 +236,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-Your Name
+Harsh Patare
 
 ## Support
 
